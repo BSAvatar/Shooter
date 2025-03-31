@@ -1,5 +1,5 @@
 using UnityEngine;
-public class EnemyType2 : MonoBehaviour
+public class EnemyType : MonoBehaviour
 {
     public float speed = 3f;
     private float direction;
